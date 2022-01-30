@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51994b84c460412459cdff8c0ef8be2a, type: 3}
+  m_Name: ShrinkRayUpgrade
+  m_EditorClassIdentifier: 
+  name: Shrink Ray
+  description: Fire a projectile if the your opponent is hit, will shrink their paddle
+    for a short period
+  cost: 50
+  upgradeType: 4
+  prefab: {fileID: 318771418891126757, guid: a19b9b9c9f49d774d888cc9870427b17, type: 3}
+  level: 1
