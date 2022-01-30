@@ -1,6 +1,3 @@
-# RatDroppings
-Major Assignment - Power Pong
-
 # The Rat Collective :D
                             (\,/)
                             oo   '''//,        _
