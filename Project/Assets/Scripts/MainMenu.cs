@@ -11,6 +11,8 @@ public class MainMenu : MonoBehaviour
     {
         if (clearPrefs)
             PlayerPrefs.DeleteAll();
+
+        Time.timeScale = 1f;
     }
 
     private void Update()
